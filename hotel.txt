@@ -1,1 +1,2 @@
 this is just a test hotel for git
+ROOM_ ID Room_No No_Beds
